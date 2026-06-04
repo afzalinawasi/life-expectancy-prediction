@@ -140,7 +140,7 @@ Compare the prediction with development-status benchmarks
 
 The app also includes a short model context note explaining that the prediction is a machine learning estimate, not a medical or policy conclusion.
 
-Link to view the app: 
+Link to view the app: https://iitg-life-expectancy-prediction.streamlit.app/
 
 ---
 
